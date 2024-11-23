@@ -1,4 +1,4 @@
-# 🚀 Complete DevOps Learning Guide: Basics to Advanced (2025–2030)
+# 🚀 Complete DevOps Learning Guide
 
 ![DevOps GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmU0OW40Z2hoeWhzeGVmYzJqYjV5NWlkOHllcnc0MDE1czZqcWRzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif)  
 
